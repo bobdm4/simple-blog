@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const StyledHeader = styled.header`
     width: 100%;
     padding: 2rem;
-    background-color: #090a0b;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
     align-items: center;
